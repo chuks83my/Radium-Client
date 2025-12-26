@@ -1,17 +1,13 @@
+<p align="center">
+  <img src="preview.png" alt="Radium Client Menu Preview" width="800">
+</p>
+
 # ⚡ Radium Client
 
 🔗 **Download:** https://radiumclient.net  
 
 Radium Client is a powerful **Minecraft utility client** built on **Fabric**, designed to enhance gameplay with automation, combat tools, visuals, and quality-of-life features.  
 Optimized for **Minecraft 1.21 – 1.21.11**, with strong support for **DonutSMP**.
-
----
-
-## 🖼️ Menu Preview
-
-<p align="center">
-  <img src="preview.png" alt="Radium Client Menu Preview" width="800">
-</p>
 
 ---
 
